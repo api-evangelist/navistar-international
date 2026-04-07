@@ -1,7 +1,12 @@
 aid: navistar-international
-url: https://raw.githubusercontent.com/api-evangelist/navistar-international/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/navistar-international/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.navistar-international.com
+description: >-
+  Navistar International is a holding company that produces International brand commercial
+  and military trucks, proprietary diesel engines, and IC Bus brand school and commercial
+  buses.
