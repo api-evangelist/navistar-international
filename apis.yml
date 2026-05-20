@@ -23,6 +23,8 @@ maintainers:
     email: kin@apievangelist.com
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/navistar-inc
   - type: Website
     url: https://www.internationaltrucks.com/
   - type: Website
