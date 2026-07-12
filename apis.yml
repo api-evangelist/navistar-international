@@ -24,6 +24,8 @@ maintainers:
     email: kin@apievangelist.com
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/navistar-international-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/navistar-inc
   - type: Website
