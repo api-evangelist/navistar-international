@@ -1,5 +1,8 @@
 aid: navistar-international
 url: https://raw.githubusercontent.com/api-evangelist/navistar-international/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "No public APIs have been identified at this time; the legacy navistar-international.com domain currently redirects to a parts marketplace."
 name: Navistar International
 tags:
   - Trucks
