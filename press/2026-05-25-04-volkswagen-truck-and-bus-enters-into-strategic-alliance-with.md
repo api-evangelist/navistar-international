@@ -1,7 +1,9 @@
 ---
 title: Volkswagen Truck & Bus enters into strategic alliance with ...
 url: https://www.volkswagen-group.com/en/press-releases/volkswagen-truck-and-bus-enters-into-strategic-alliance-with-navistar-16423
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Navistar International" press release artificial intelligence'
 position: 4
 source: serpapi-google

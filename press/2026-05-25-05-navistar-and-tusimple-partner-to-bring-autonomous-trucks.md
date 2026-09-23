@@ -1,7 +1,9 @@
 ---
 title: Navistar and TuSimple partner to bring autonomous trucks ...
 url: https://telematicswire.net/navistar-and-tusimple-partner-to-bring-autonomous-trucks-to-market-navistar-invests-in-autonomous-trucking-company/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Navistar International" press release artificial intelligence'
 position: 5
 source: serpapi-google

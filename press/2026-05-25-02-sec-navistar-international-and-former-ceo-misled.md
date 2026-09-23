@@ -1,7 +1,9 @@
 ---
 title: 'SEC: Navistar International and Former CEO Misled ...'
 url: https://www.sec.gov/newsroom/press-releases/2016-62
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Navistar International" press release artificial intelligence'
 position: 2
 source: serpapi-google
